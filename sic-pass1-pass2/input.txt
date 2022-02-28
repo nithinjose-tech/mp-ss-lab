@@ -1,0 +1,11 @@
+--     START  2000
+--     LDA    five
+--     STA    alpha
+--     LDCH   charz
+--     STCH   beta
+--     RSUB   --
+five   WORD   5
+charz  BYTE   C'z'
+alpha  RESW   1
+beta   RESB   1
+--     END    --

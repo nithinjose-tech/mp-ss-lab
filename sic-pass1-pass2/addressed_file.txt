@@ -1,0 +1,11 @@
+1		--	START	2000
+2	2000	--	LDA	five
+3	2003	--	STA	alpha
+4	2006	--	LDCH	charz
+5	2009	--	STCH	beta
+6	200C	--	RSUB	--
+7	200F	five	WORD	5
+8	2012	charz	BYTE	C'z'
+9	2013	alpha	RESW	1
+10	2016	beta	RESB	1
+11	2017	--	END	--

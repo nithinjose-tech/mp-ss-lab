@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1642655968 source:c:\users\91701\desktop\mp-lab\sic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
